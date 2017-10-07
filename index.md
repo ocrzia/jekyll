@@ -6,4 +6,4 @@ Voilà
 
 ## Titre secondaire 
 
-Blabla ** gras et _italique_  **
+Blabla **gras et _italique_**
