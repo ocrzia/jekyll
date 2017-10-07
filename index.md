@@ -12,5 +12,5 @@ Voilà
 <ul>
   {% for page in site.pages %} 
   <li><a href="{{ page.title }}">{{ page.title }}</a>
-  {% end for %} 
+  {% endfor %} 
 </ul>
