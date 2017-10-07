@@ -10,7 +10,7 @@ Voilà
 {{ site.title }} 
 
 <ul>
-  {% for page in site.pages %} 
+  {% for page in site.html_pages %} 
   <li><a href="{{ page.title }}">{{ page.title }}</a></li>
   {% endfor %} 
 </ul>
