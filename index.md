@@ -1,9 +1,9 @@
+
+
 # jekyll
 
 Voilà 
 
 ## Titre secondaire 
 
-Blabla
-*gras*
-_italique_
+Blabla ** gras et _italique_  **
